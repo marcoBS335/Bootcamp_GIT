@@ -1,0 +1,59 @@
+[33mcommit 3cfd4c93d9ab91c7e88a6d75c8dbff2d00d2dec4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: this_is_v3_tag[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Wed Aug 4 13:26:28 2021 +0200
+
+    added template into support file
+
+[33mcommit aca1c7ff80015de75c713eb6e5a1affd198c9804[m[33m ([m[1;33mtag: support_v1[m[33m)[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Wed Aug 4 13:24:30 2021 +0200
+
+    added support page file
+
+[33mcommit 1e9b86436a538206e21b7ab1ef9b6479803ae303[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Wed Aug 4 12:03:13 2021 +0200
+
+    adding gitignore
+
+[33mcommit 5a0235bcc42c1faaa2311571ce8285d29dec6edf[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Wed Aug 4 11:37:56 2021 +0200
+
+    delete index2
+
+[33mcommit f63bf02298cf6adb5e5540105a3c77477f257118[m[33m ([m[1;31morigin/OAuth[m[33m, [m[1;32mOAuth[m[33m)[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Wed Aug 4 10:04:11 2021 +0200
+
+    commit from branch
+
+[33mcommit b202bcbcf32e4ee7e2bb5e99a29bf93fc082b6c8[m
+Author: marcoBS335 <56341836+marcoBS335@users.noreply.github.com>
+Date:   Tue Aug 3 14:52:37 2021 +0200
+
+    Create index2.html
+
+[33mcommit 541a46ecd099320af4f6c478dd91eafc8274f5a6[m
+Author: Marek Berta <marek.berta@accenture.com>
+Date:   Tue Aug 3 14:00:28 2021 +0200
+
+    adding folder structure
+
+[33mcommit 19d5468f279eacc4f19385a7bfa1bff2b0b70a7b[m
+Author: Berta <marek.berta@accenture.com>
+Date:   Tue Aug 3 13:43:32 2021 +0200
+
+    commit from developer
+
+[33mcommit b244fa32a335e4cf6d68bf292e419cae6fc4e92a[m
+Author: Berta <marek.berta@accenture.com>
+Date:   Tue Aug 3 13:34:28 2021 +0200
+
+    added h2 into index.html
+
+[33mcommit 3cc303303557f9e96c796c35c551875f93659d27[m
+Author: Berta <marek.berta@accenture.com>
+Date:   Tue Aug 3 11:24:27 2021 +0200
+
+    first file in codebase
